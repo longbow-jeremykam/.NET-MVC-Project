@@ -10775,19 +10775,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\jeremy.kam\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\.NET-MVC-Project\\LargeBoooks\\LargeBooksWebApp\\LargeBooksWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\jeremy.kam\\Documents\\GitHub\\.NET-MVC\\LargeBoooks\\LargeBooksWebApp\\LargeBooksWebApp.csproj",
       "projectName": "LargeBooksWebApp",
-      "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\.NET-MVC-Project\\LargeBoooks\\LargeBooksWebApp\\LargeBooksWebApp.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\.NET-MVC-Project\\LargeBoooks\\LargeBooksWebApp\\obj\\",
+      "projectPath": "C:\\Users\\jeremy.kam\\Documents\\GitHub\\.NET-MVC\\LargeBoooks\\LargeBooksWebApp\\LargeBooksWebApp.csproj",
+      "packagesPath": "C:\\Users\\jeremy.kam\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jeremy.kam\\Documents\\GitHub\\.NET-MVC\\LargeBoooks\\LargeBooksWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jeremy.kam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10795,6 +10795,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10852,24 +10853,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.30, 6.0.30]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.30, 6.0.30]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.30, 6.0.30]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.30, 6.0.30]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -10878,7 +10861,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

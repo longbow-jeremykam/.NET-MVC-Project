@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LargeBooksWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcbafad8e88f606354d30503187699873408ee2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7a373bc0547d76b16f740411e1dc72b04d35b1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LargeBooksWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LargeBooksWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
